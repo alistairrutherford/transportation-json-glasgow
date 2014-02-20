@@ -6,6 +6,7 @@ JSON stream parser for Glasgow traffic incident and car park occupancy feeds.
 This will parse and extract records from Glasgows 'Smart City'data feeds here:
 
 http://data.glasgow.gov.uk/dataset/glasgow-road-network-traffic-events-feed
+
 http://data.glasgow.gov.uk/dataset/glasgow-car-parks-feed
 
 - Mavenized.
