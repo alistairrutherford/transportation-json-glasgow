@@ -15,6 +15,8 @@ http://data.glasgow.gov.uk/dataset/glasgow-car-parks-feed
 - Low memory requirements as the document is parsed as a stream.
 - Suitable for Android.
 
+These parsers are implemeted using the 'Jackson' stream JSON parser.
+
 License
 --------
 [Copyright - Alistair Rutherford 2013 - www.netthreads.co.uk]
