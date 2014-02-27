@@ -16,14 +16,21 @@
  * limitations under the License.
  * 
  */
-package com.netthreads.transportation.parser.data;
+package com.netthreads.transportation.data;
+
+import java.io.Serializable;
 
 /**
  * Car Park data class.
  * 
  */
-public class CarParkData
+public class CarParkData implements Serializable
 {
+	/**
+	 * 
+	 */
+    private static final long serialVersionUID = -4305130932635634314L;
+    
 	// ------------------------------------------------------------------------
 	// Constants
 	// ------------------------------------------------------------------------

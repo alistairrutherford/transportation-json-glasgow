@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<module>
+	<!--  You can reuse the data objects in your GWT application by placing the flowing in your module definition:
+		<inherits name='com.netthreads.transportation' />
+	 -->
+	<source path="transportation/data" />
+</module>

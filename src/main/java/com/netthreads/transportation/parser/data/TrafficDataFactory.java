@@ -18,6 +18,7 @@
  */
 package com.netthreads.transportation.parser.data;
 
+import com.netthreads.transportation.data.TrafficData;
 import com.netthreads.transportation.parser.DataFactory;
 
 /**

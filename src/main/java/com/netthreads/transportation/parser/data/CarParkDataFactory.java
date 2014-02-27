@@ -18,6 +18,7 @@
  */
 package com.netthreads.transportation.parser.data;
 
+import com.netthreads.transportation.data.CarParkData;
 import com.netthreads.transportation.parser.DataFactory;
 
 /**

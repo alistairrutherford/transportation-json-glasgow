@@ -26,6 +26,7 @@ import java.util.Map;
 import org.codehaus.jackson.JsonParseException;
 import org.codehaus.jackson.JsonParser;
 
+import com.netthreads.transportation.data.CarParkData;
 import com.netthreads.transportation.parser.JSONParser;
 
 /**

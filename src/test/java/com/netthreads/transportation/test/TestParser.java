@@ -24,12 +24,12 @@ import java.util.List;
 
 import org.junit.Test;
 
+import com.netthreads.transportation.data.CarParkData;
+import com.netthreads.transportation.data.TrafficData;
 import com.netthreads.transportation.parser.StreamParser;
 import com.netthreads.transportation.parser.StreamParserImpl;
-import com.netthreads.transportation.parser.data.CarParkData;
 import com.netthreads.transportation.parser.data.CarParkDataFactory;
 import com.netthreads.transportation.parser.data.CarParkDataParser;
-import com.netthreads.transportation.parser.data.TrafficData;
 import com.netthreads.transportation.parser.data.TrafficDataFactory;
 import com.netthreads.transportation.parser.data.TrafficDataParser;
 

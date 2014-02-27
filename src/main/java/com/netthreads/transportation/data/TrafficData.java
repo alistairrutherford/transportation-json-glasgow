@@ -16,14 +16,21 @@
  * limitations under the License.
  * 
  */
-package com.netthreads.transportation.parser.data;
+package com.netthreads.transportation.data;
+
+import java.io.Serializable;
 
 /**
  * Traffic data class.
  * 
  */
-public class TrafficData
+public class TrafficData implements Serializable
 {
+	/**
+	 * 
+	 */
+    private static final long serialVersionUID = -5602799862517474085L;
+    
 	// ------------------------------------------------------------------------
 	// Constants
 	// ------------------------------------------------------------------------

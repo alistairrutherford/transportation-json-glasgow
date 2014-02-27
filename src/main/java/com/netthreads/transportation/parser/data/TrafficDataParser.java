@@ -27,6 +27,7 @@ import org.codehaus.jackson.JsonParseException;
 import org.codehaus.jackson.JsonParser;
 import org.codehaus.jackson.JsonToken;
 
+import com.netthreads.transportation.data.TrafficData;
 import com.netthreads.transportation.parser.JSONParser;
 
 /**
