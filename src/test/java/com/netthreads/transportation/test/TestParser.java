@@ -36,6 +36,10 @@ import com.netthreads.transportation.parser.data.TrafficDataParser;
 /**
  * Simple test to pull data items from Glasgow Traffic feed.
  * 
+ * NOTE: The datafiles are generated from here:
+ * 
+ * http://open.glasgow.gov.uk/api/live/trafficEvents.php
+ * 
  */
 public class TestParser
 {
@@ -67,7 +71,7 @@ public class TestParser
 	 * Test Car Park Data.
 	 * 
 	 */
-	@Test
+	//@Test
 	public void testReadCarParkData()
 	{
 		final InputStream entityStream = ClassLoader.class.getResourceAsStream(JSON_CARPARK_FILE);
